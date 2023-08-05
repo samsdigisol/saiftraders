@@ -1,5 +1,5 @@
 body{
-    background-color: antiquewhite;
+    background-color:lightcoral;
     text-align: center;
     padding : 3%;
 
@@ -67,7 +67,7 @@ button{
 }
 .stick{
     height: 10%;
-    width: 10%;
+    width: 8%;
     border-radius: 10%;
     position: fixed;
     margin-left: 40%;
